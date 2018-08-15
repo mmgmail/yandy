@@ -20,14 +20,12 @@ $(document).ready(function() {
 $(document).on('ready', function() {
 
   $(".center").slick({
-
     infinite: true,
     centerMode: true,
     slidesToShow: 2,
     autoplay: true,
-  autoplaySpeed: 2000,
+  	autoplaySpeed: 2000,
     slidesToScroll: 1
-
   });
 
 });
