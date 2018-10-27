@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Gotham-BoldItalic";
+    src: url("GothamBoldItalic.eot");
+    src: url("GothamBoldItalic.eot?#iefix") format("embedded-opentype"),
+         url("GothamBoldItalic.woff2") format("woff2"),
+         url("GothamBoldItalic.woff") format("woff"),
+         url("GothamBoldItalic.ttf") format("ttf"),
+         url("GothamBoldItalic.svg#Gotham-BoldItalic") format("svg");
+    font-style: italic;
+    font-weight: 700;
+}

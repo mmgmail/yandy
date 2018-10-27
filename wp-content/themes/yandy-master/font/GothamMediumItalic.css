@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Gotham-MediumItalic";
+    src: url("GothamMediumItalic.eot");
+    src: url("GothamMediumItalic.eot?#iefix") format("embedded-opentype"),
+         url("GothamMediumItalic.woff2") format("woff2"),
+         url("GothamMediumItalic.woff") format("woff"),
+         url("GothamMediumItalic.ttf") format("ttf"),
+         url("GothamMediumItalic.svg#Gotham-MediumItalic") format("svg");
+    font-style: italic;
+    font-weight: normal;
+}
